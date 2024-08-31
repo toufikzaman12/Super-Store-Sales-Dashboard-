@@ -21,9 +21,9 @@ The SuperStore Sales Dashboard is designed to offer a clear and concise view of 
 
 The dataset used in this project is fictional and intended for educational purposes. It simulates sales data for a retail store, including:
 
-- **Sales**
-- **Profit**
-- **Quantity Sold**
+- **Sales:** $1.6M
+- **Profit:** $175K
+- **Quantity Sold:** 22K units
 - **Sales by Category**
 - **Sales by Sub-Category**
 - **Sales by Ship Mode**
@@ -35,30 +35,46 @@ The dataset used in this project is fictional and intended for educational purpo
 ## Dashboard Features
 
 ### 1. **Sales by Category**
-   - Visualizes total sales across three main product categories: Office Supplies, Technology, and Furniture.
+   - **Office Supplies:** $0.64M (40% of total sales)
+   - **Technology:** $0.47M (29% of total sales)
+   - **Furniture:** $0.45M (28% of total sales)
 
 ### 2. **Top Performing Sub-Categories**
-   - Highlights the top-selling product sub-categories such as Phones, Chairs, and Binders.
+   - **Phones:** $0.20M (12.5% of total sales)
+   - **Chairs:** $0.18M (11.25% of total sales)
+   - **Binders:** $0.17M (10.6% of total sales)
 
 ### 3. **Sales by Ship Mode**
-   - Analyzes sales distribution across different shipping methods including Standard Class and Same Day.
+   - **Standard Class:** $0.33M (20.6% of total sales)
+   - **Second Class:** $0.11M (6.9% of total sales)
+   - **First Class:** $0.08M (5% of total sales)
+   - **Same Day:** $0.03M (1.9% of total sales)
 
 ### 4. **Sales by Segment**
-   - Breaks down sales by customer segments: Consumer, Corporate, and Home Office.
+   - **Consumer Segment:** $0.77M (48.09% of total sales)
+   - **Corporate Segment:** $0.52M (32.55% of total sales)
+   - **Home Office Segment:** $0.31M (19.35% of total sales)
 
 ### 5. **Sales by Region**
-   - Provides a regional analysis of sales performance, showing which areas contribute most to revenue.
+   - **West Region:** $0.53M (33.37% of total sales)
+   - **East Region:** $0.46M (28.75% of total sales)
+   - **South Region:** $0.35M (21.78% of total sales)
+   - **Central Region:** $0.26M (16.1% of total sales)
 
 ### 6. **Sales by State**
-   - Identifies top-performing states, with California leading in sales.
+   - **California:** $0.34M (21.25% of total sales)
+   - **New York:** $0.19M (11.88% of total sales)
+   - **Texas:** $0.12M (7.5% of total sales)
 
 ### 7. **Monthly Sales & Profit Trends (YoY)**
-   - Displays year-over-year comparisons for sales and profits, highlighting seasonal trends.
+   - **Sales Trends:** Sales peaked in December of both 2019 and 2020.
+   - **Profit Trends:** Profit also saw significant increases in December, aligning with higher sales volumes.
 
 ### 8. **Sales by Payment Mode**
-   - Shows the distribution of sales across different payment methods like Online and Cards.
+   - **Online Payments:** $0.68M (42.62% of total sales)
+   - **Card Payments:** $0.57M (35.38% of total sales)
+   - **COD:** $0.35M (21.99% of total sales)
 
 ### 9. **Sales Forecasting**
-   - Includes a 15-day sales forecast to predict future sales trends.
-
+   - A 15-day sales forecast is included in the dashboard to predict future trends, helping in inventory and staffing decisions.
 
